@@ -1,0 +1,8 @@
+manager
+role1
+admin
+zabbix
+root
+tomcat
+s3cret
+password
